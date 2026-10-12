@@ -1,4 +1,9 @@
-
+/*
+ * Program: Sum of First 50 Natural Numbers
+ * Name: bilal khalid
+ * Registration No: l1s26bscs0170
+ * Assignment: 01
+ */
 #include <iostream>
 using namespace std;
 
